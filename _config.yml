@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ahmadjon Rahmatov"
-  avatar : "C:\Users\ahmad\OneDrive\Desktop\CORE COURSE READING LIKE A COMPUTER"
+  avatar : "/assets/images/Ahmadjonn.jpg"
   bio    : "I am a senior student at NYU Abu Dhabi, majoring in SRPP, and minoring in Economics."
   links:
     - label: "Website"
