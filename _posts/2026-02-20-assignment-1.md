@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1"
 categories:
-  - assignment
+  - assignments
 
 ---
 
