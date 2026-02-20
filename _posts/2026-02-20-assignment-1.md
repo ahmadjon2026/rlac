@@ -1,7 +1,8 @@
 ---
-title: "Assignments"
-layout: single
-permalink: /assignments/
+title: "Assignment 1"
+categories:
+  - assignments
+
 ---
 
-The Assignment 1 is goiiiiing .... 
+The Assignment 1 is going to be here ..
