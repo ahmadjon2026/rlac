@@ -1,8 +1,7 @@
 ---
-title: "Assignment 1"
-categories:
-  - assignments
-
+title: "Assignments"
+layout: single
+permalink: /assignments/
 ---
 
 The Assignment 1 is going to be here ..
