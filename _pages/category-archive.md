@@ -1,6 +1,6 @@
 ---
 title: "Assignments"
 layout: single
-permalink: /assingments/
+permalink: /assignments/
 author_profile: true
 ---
