@@ -4,4 +4,4 @@ layout: single
 permalink: /assignments/
 ---
 
-The Assignment 1 is going to be here ..
+The Assignment 1 is goiiiiing .... 
