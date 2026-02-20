@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Responses"
+permalink: /responses/
+layout: single
 author_profile: true
 ---
