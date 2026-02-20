@@ -1,6 +1,6 @@
 ---
 title: "Responses"
 permalink: /responses/
-layout: single
+layout: archive
 author_profile: true
 ---
