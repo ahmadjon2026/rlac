@@ -6,11 +6,7 @@ author_profile: true
 ---
 
 
-{% for post in site.categories.responses %}
-### [{{ post.title }}]({{ post.url | relative_url }})
-<small>{{ post.date | date: "%B %d, %Y" }}</small>
-
-{{ post.excerpt }}
-
----
+{% assign posts = site.categories.responses %}
+{% for post in posts %}
+  {% include archive-single.html %}
 {% endfor %}
