@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmadjon Rahmatov"
   avatar : "/assets/images/Ahmadjon.jpg"
-  bio    : "My bio soon coming ...."
+  bio    : "Interested in consulting and strategy. When I am not studying, I am either watching football or playing it."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
