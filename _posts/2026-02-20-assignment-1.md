@@ -137,4 +137,4 @@ In the end, the strongest lexical difference is the repetition of **“professor
 Distant reading did not dramatically confirm my hypothesis. Instead, it *corrected* it. **That correction is the most valuable outcome of this project.**
 <br><br>
 
-**"READY FOR GRADING?"** - I think so 🤔
+**"READY FOR GRADING?"** - I think so 🤔.
