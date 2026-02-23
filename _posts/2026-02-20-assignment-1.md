@@ -135,3 +135,7 @@ This supports what Kestemont and Herman argue when they describe computational m
 In the end, the strongest lexical difference is the repetition of **“professor”** in Rowling. The increase in agency language is present but modest. This forces a more careful conclusion. Fanfiction does not radically dismantle institutional language at the level of vocabulary. It slightly softens it and shifts its tone.
 
 Distant reading did not dramatically confirm my hypothesis. Instead, it *corrected* it. **That correction is the most valuable outcome of this project.**
+
+
+
+**"READY FOR GRADING"** - I think so 🤔
