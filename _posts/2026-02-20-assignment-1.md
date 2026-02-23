@@ -29,6 +29,6 @@ _**Institutional Language Is Stronger in Rowling.**_ To measure institutional au
 <div align="center">
   <img src="/assets/images/posit_agency_authority.png">
   <br>
-  <em>Figure 1.</em> Frequency of Institutional Language
+  <em>Figure 1. Frequency of Institutional Language</em>
 </div>
 
