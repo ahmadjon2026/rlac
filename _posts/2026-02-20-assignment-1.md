@@ -26,8 +26,8 @@ The analysis included word frequency counts, trend graphs, contextual views, a h
 ## Findings Part 1: Authority Language
 _**Institutional Language Is Stronger in Rowling.**_ To measure institutional authority, I examined words such as professor, ministry, headmaster, detention, and rules across all six texts.
 
-<div align="center">
-  <img src="/assets/images/posit_agency_authority.jpg">
+<div style="text-align: center;">
+  <img src="/assets/images/posit_agency_authority.jpg" alt="Frequency of Institutional Language">
   <br>
   <em>Figure 1. Frequency of Institutional Language</em>
 </div>
