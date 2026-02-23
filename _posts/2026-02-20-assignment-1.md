@@ -94,3 +94,23 @@ The heatmap supports this interpretation, showing variation rather than a clear 
 
 This complicates the assumption that fanfiction automatically produces greater character autonomy at the level of vocabulary.
 
+## Qualitative Layer: “Must”
+To move beyond frequency counts, I examined the word must in context.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual4.jpg" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Voyant Context: “Must” in Rowling</em>
+</div>
+<br>
+In Rowling’s novels, *must* often appears in institutional commands. It reinforces obligation and hierarchy.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual5.jpg" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Voyant Context: “Must” in Fanfiction</em>
+</div>
+<br>
+In fanfiction, *must* appears in more varied contexts. It is sometimes used in negotiation, internal thought, or emotional exchange. This suggests that authority shifts not only in quantity but in tone.
