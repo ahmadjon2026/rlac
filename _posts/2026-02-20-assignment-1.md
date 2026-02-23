@@ -60,9 +60,11 @@ Voyant trends support this pattern.
           src="https://voyant-tools.org/tool/Trends/?query=headmaster*&query=ministry*&query=professor&query=dumbledore*&corpus=a6897725c6bad7a67d353cc608483d70">
   </iframe>
   <br>
-  <em>Figure 3. Voyant Trends – Institutional Terms</em>
+  <em>Figure 3. Voyant Trends: Institutional Terms</em>
 </div>
 <br>
 The trend lines show that words like professor and ministry peak in the original novels and decline in fanfiction. The decline is consistent across texts.
 
 Overall, authority vocabulary is the clearest lexical difference between the two corpora.
+
+## Findings Part 2:  Agency Language
