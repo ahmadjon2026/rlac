@@ -37,7 +37,7 @@ agency_words    <- c("plan", "planned", "decide", "decided", "lead", "leading", 
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
   <br>
-  <em>Figure 1. Frequency of Institutional Language</em>
+  <em>Figure 1. Authority vs Agency Words (Total Counts)</em>
 </div>
 <br>
 *Figure 1* shows a clear difference. Authority-related words appear far more frequently in Rowling’s novels than in the fanfiction texts. The gap is substantial, not minor. This suggests that institutional vocabulary is central to Rowling’s narrative world. The school, the Ministry, and formal hierarchy are linguistically visible and repeated. In fanfiction, authority terms are present but less dominant. Institutions are not removed, but they are less saturated in the language.
