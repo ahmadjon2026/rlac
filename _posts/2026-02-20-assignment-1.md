@@ -63,7 +63,7 @@ Voyant trends support this pattern.
   <em>Figure 3. Voyant Trends: Institutional Terms</em>
 </div>
 <br>
-The trend lines show that words like professor and ministry peak in the original novels and decline in fanfiction. The decline is consistent across texts.
+The trend lines show that words like professor and dumbledore peak in the original novels and decline in fanfiction. The decline is consistent across texts.
 
 Overall, authority vocabulary is the clearest lexical difference between the two corpora.
 
