@@ -138,4 +138,4 @@ Distant reading did not dramatically confirm my hypothesis. Instead, it *correct
 
 
 
-**"READY FOR GRADING"** - I think so 🤔
+**"READY FOR GRADING?"** - I think so 🤔
