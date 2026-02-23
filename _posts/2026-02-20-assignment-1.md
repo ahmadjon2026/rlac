@@ -114,3 +114,5 @@ In Rowling’s novels, *must* often appears in institutional commands. It reinfo
 </div>
 <br>
 In fanfiction, *must* appears in more varied contexts. It is sometimes used in negotiation, internal thought, or emotional exchange. This suggests that authority shifts not only in quantity but in tone.
+
+## Reflection
