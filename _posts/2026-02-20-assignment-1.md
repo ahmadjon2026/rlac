@@ -116,4 +116,22 @@ In Rowling’s novels, *must* often appears in institutional commands. It reinfo
 In fanfiction, *must* appears in more varied contexts. It is sometimes used in negotiation, internal thought, or emotional exchange. This suggests that authority shifts not only in quantity but in tone.
 
 ## Reflection
-A honest reflection is coming ...
+This project started with a clear expectation. I thought fanfiction would reduce institutional language and increase language of agency. At first, the results seemed to confirm this idea. In *Figure 1,* authority-related words appear much more often in Rowling’s novels. Agency words appear slightly more in fanfiction. The difference looks strong.
+
+However, when I looked more closely, the pattern became more complex.
+
+The large authority gap is mainly caused by one word: “professor.” In the Voyant trends, the words “ministry” and “headmaster” remain almost stable across all six texts. The heatmap shows the same thing. The strong difference in *Figure 1* is not spread evenly across all institutional words. It is concentrated in a single word. This weakens my original claim. The high frequency may reflect the school setting itself rather than a deep structural dominance of authority.
+
+This shows why distant reading must be handled carefully. The *High Theory* podcast explains that distant reading works at a *“macroscopic scale”* but still requires close interpretation. The total counts looked decisive. The trend lines made the picture more nuanced. The method revealed a pattern, but it also forced me to question it.
+
+The same issue appears in the agency category. I expected a clear increase in verbs such as “decide,” “plan,” and “lead” in fanfiction. Instead, the rise is modest. The word “plan” peaks strongly in one fanfiction text, but the others remain close to Rowling’s level. “Decide” and “lead” are only slightly higher overall. The shift toward agency exists, but it is limited and uneven.
+
+Here Underwood’s warning about the *“illusion of objectivity”* becomes important. Graphs look clear and convincing. But numbers do not interpret themselves. If I had relied only on the total bar graph, I would have overstated the difference. The method demands self-doubt.
+
+The qualitative analysis of the word **“must”** was more revealing than the frequency counts. In Rowling, phrases like *“Harry Potter must”* appear often. Obligation is placed on the character from outside authority. In fanfiction, phrases such as *“I must”* and *“We must”* appear more frequently. Obligation becomes internal and personal. Authority does not disappear, but it shifts location.
+
+This supports what Kestemont and Herman argue when they describe computational models as tools that reshape interpretation rather than replace it. The data did not prove that fanfiction rejects institutions. Instead, it showed a subtle redistribution of authority from formal titles toward internal voice.
+
+In the end, the strongest lexical difference is the repetition of **“professor”** in Rowling. The increase in agency language is present but modest. This forces a more careful conclusion. Fanfiction does not radically dismantle institutional language at the level of vocabulary. It slightly softens it and shifts its tone.
+
+**Distant reading did not dramatically confirm my hypothesis. Instead, it corrected it. That correction is the most valuable outcome of this project.**
