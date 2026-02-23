@@ -68,3 +68,29 @@ The trend lines show that words like *professor* and *dumbledore* peak in the or
 Overall, authority vocabulary is the clearest lexical difference between the two corpora.
 
 ## Findings Part 2:  Agency Language
+**Agency Increase Is Modest and Uneven.** I expected to find a strong increase in self-directed words such as decide, plan, lead, and control in fanfiction.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 1 (again). Authority vs Agency Words (Total Counts)</em>
+</div>
+<br>
+Agency terms appear slightly more often in fanfiction than in Rowling’s novels. However, the difference is limited. The increase is visible but not dramatic.
+To examine variation across texts:
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <iframe style="width: 544px; height: 350px;" 
+          src="https://voyant-tools.org/tool/Trends/?query=plan*&query=control*&query=decide*&query=lead*&corpus=a6897725c6bad7a67d353cc608483d70">
+  </iframe>
+  <br>
+  <em>Figure 5. Voyant Trends: Agency Terms</em>
+</div>
+<br>
+The trend lines show uneven distribution. Some fanfiction texts show noticeable increases in words like plan or lead, while others remain close to Rowling’s baseline levels. This suggests that agency is not uniformly intensified in fanfiction. It appears concentrated in particular narratives rather than consistently elevated.
+
+The heatmap supports this interpretation, showing variation rather than a clear structural shift. The lexical increase in agency language is therefore weaker than expected.
+
+This complicates the assumption that fanfiction automatically produces greater character autonomy at the level of vocabulary.
+
