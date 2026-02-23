@@ -40,7 +40,6 @@ agency_words    <- c("plan", "planned", "decide", "decided", "lead", "leading", 
   <em>Figure 1. Frequency of Institutional Language</em>
 </div>
 <br>
-
 *Figure 1* shows a clear difference. Authority-related words appear far more frequently in Rowling’s novels than in the fanfiction texts. The gap is substantial, not minor. This suggests that institutional vocabulary is central to Rowling’s narrative world. The school, the Ministry, and formal hierarchy are linguistically visible and repeated. In fanfiction, authority terms are present but less dominant. Institutions are not removed, but they are less saturated in the language.
 
 To examine distribution within individual texts:
@@ -52,7 +51,6 @@ To examine distribution within individual texts:
   <em>Figure 2. Keyword Heatmap (Relative Frequency)</em>
 </div>
 <br>
-
 The heatmap confirms that authority words cluster more strongly in Rowling’s novels. Fanfiction texts show lighter frequency patterns.
 
 Voyant trends support this pattern.
@@ -65,3 +63,6 @@ Voyant trends support this pattern.
   <em>Figure 3. Voyant Trends – Institutional Terms</em>
 </div>
 <br>
+The trend lines show that words like professor and ministry peak in the original novels and decline in fanfiction. The decline is consistent across texts.
+
+Overall, authority vocabulary is the clearest lexical difference between the two corpora.
