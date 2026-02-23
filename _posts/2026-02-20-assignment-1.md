@@ -5,8 +5,7 @@ categories:
 
 ---
 
-Introduction
-
+## Introduction
 J.K. Rowling’s early Harry Potter novels are structured around institutions. Hogwarts, the Ministry of Magic, school rules, professors, and formal hierarchies shape the world of the story. Authority is visible and organized. Power often flows through official positions such as headmaster, professor, or ministry official. Even when characters resist authority, they do so within a clearly defined institutional framework.
 
 Fanfiction rewrites and expands this world. Many readers and writers see fanfiction as a space of greater freedom. It allows characters to act differently, question authority, or reshape relationships. A common assumption is that fanfiction shifts the focus away from institutions and toward personal choice and self-direction.
