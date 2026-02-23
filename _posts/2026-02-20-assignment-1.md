@@ -54,8 +54,8 @@ The heatmap confirms that authority words cluster more strongly in Rowling’s n
 Voyant trends support this pattern.
 
 <div style="text-align: center;">
-  <iframe style="width: 100%; height: 800px;" 
-          src="https://voyant-tools.org/?view=Trends&corpus=a6897725c6bad7a67d353cc608483d70">
+  <iframe style="width: 544px; height: 350px;" 
+          src="https://voyant-tools.org/tool/Trends/?query=headmaster*&query=ministry*&query=professor&query=dumbledore*&corpus=a6897725c6bad7a67d353cc608483d70">
   </iframe>
   <br>
   <em>Figure 3. Voyant Trends – Institutional Terms</em>
