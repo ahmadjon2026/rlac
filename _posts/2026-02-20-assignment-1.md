@@ -85,7 +85,7 @@ To examine variation across texts:
           src="https://voyant-tools.org/tool/Trends/?query=plan*&query=control*&query=decide*&query=lead*&corpus=a6897725c6bad7a67d353cc608483d70">
   </iframe>
   <br>
-  <em>Figure 5. Voyant Trends: Agency Terms</em>
+  <em>Figure 4. Voyant Trends: Agency Terms</em>
 </div>
 <br>
 The trend lines show uneven distribution. Some fanfiction texts show noticeable increases in words like plan or lead, while others remain close to Rowling’s baseline levels. This suggests that agency is not uniformly intensified in fanfiction. It appears concentrated in particular narratives rather than consistently elevated.
@@ -101,7 +101,7 @@ To move beyond frequency counts, I examined the word must in context.
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual4.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
   <br>
-  <em>Figure 6. Voyant Context: “Must” in Rowling</em>
+  <em>Figure 5. Voyant Context: “Must” in Rowling</em>
 </div>
 <br>
 In Rowling’s novels, *must* often appears in institutional commands. It reinforces obligation and hierarchy.
@@ -110,7 +110,7 @@ In Rowling’s novels, *must* often appears in institutional commands. It reinfo
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual5.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
   <br>
-  <em>Figure 7. Voyant Context: “Must” in Fanfiction</em>
+  <em>Figure 6. Voyant Context: “Must” in Fanfiction</em>
 </div>
 <br>
 In fanfiction, *must* appears in more varied contexts. It is sometimes used in negotiation, internal thought, or emotional exchange. This suggests that authority shifts not only in quantity but in tone.
