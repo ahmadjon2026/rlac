@@ -32,7 +32,7 @@ As shown in the code below, I manually defined two keyword groups in R to repres
 authority_words <- c("professor", "ministry", "headmaster", "rules", "detention")
 agency_words    <- c("plan", "planned", "decide", "decided", "lead", "leading", "choose", "chose")
 ```
-
+<br>
 <div style="text-align: center;">
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
