@@ -87,7 +87,7 @@ To examine variation across texts:
   <br>
   <em>Figure 4. Voyant Trends: Agency Terms</em>
 </div>
-<br>
+
 The trend lines show uneven distribution. Some fanfiction texts show noticeable increases in words like plan or lead, while others remain close to Rowling’s baseline levels. This suggests that agency is not uniformly intensified in fanfiction. It appears concentrated in particular narratives rather than consistently elevated.
 
 The heatmap supports this interpretation, showing variation rather than a clear structural shift. The lexical increase in agency language is therefore weaker than expected.
