@@ -101,7 +101,7 @@ To move beyond frequency counts, I examined the word must in context.
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual4.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
   <br>
-  <em>Voyant Context: “Must” in Rowling</em>
+  <em>Figure 6. Voyant Context: “Must” in Rowling</em>
 </div>
 <br>
 In Rowling’s novels, *must* often appears in institutional commands. It reinforces obligation and hierarchy.
@@ -110,7 +110,7 @@ In Rowling’s novels, *must* often appears in institutional commands. It reinfo
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual5.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
   <br>
-  <em>Voyant Context: “Must” in Fanfiction</em>
+  <em>Figure 7. Voyant Context: “Must” in Fanfiction</em>
 </div>
 <br>
 In fanfiction, *must* appears in more varied contexts. It is sometimes used in negotiation, internal thought, or emotional exchange. This suggests that authority shifts not only in quantity but in tone.
