@@ -68,7 +68,7 @@ The trend lines show that words like *professor* and *dumbledore* peak in the or
 Overall, authority vocabulary is the clearest lexical difference between the two corpora.
 
 ## Findings Part 2:  Agency Language
-**Agency Increase Is Modest and Uneven.** I expected to find a strong increase in self-directed words such as *decide, plan, lead,* and *control* in fanfiction.
+_**Agency Increase Is Modest and Uneven.**_ I expected to find a strong increase in self-directed words such as *decide, plan, lead,* and *control* in fanfiction.
 
 <div style="text-align: center;">
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
