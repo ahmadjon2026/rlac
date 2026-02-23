@@ -22,3 +22,6 @@ The texts were analyzed using Voyant Tools and R with the tidytext package. In b
 Two lexical categories were constructed for comparison. The first category represents institutional authority and includes words such as **professor, ministry, headmaster, detention,** and **rules.** The second category represents agency and self-direction and includes verbs such as **decide, choose, plan, lead,** and **control.** These word lists were selected based on their relevance to the research question and were applied consistently across all texts.
 
 The analysis included word frequency counts, trend graphs, contextual views, a heatmap, and word clouds. These visualizations were used to identify differences in distribution and intensity between the Rowling texts and the fanfiction texts. Because the corpus is relatively small, the results indicate tendencies rather than universal conclusions.
+
+## Findings Part 1: Authority Language
+_**Institutional Language Is Stronger in Rowling.**_ To measure institutional authority, I examined words such as professor, ministry, headmaster, detention, and rules across all six texts.
