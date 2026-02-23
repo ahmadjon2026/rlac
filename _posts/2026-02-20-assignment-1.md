@@ -24,7 +24,7 @@ Two lexical categories were constructed for comparison. The first category repre
 The analysis included word frequency counts, trend graphs, contextual views, a heatmap, and word clouds. These visualizations were used to identify differences in distribution and intensity between the Rowling texts and the fanfiction texts. Because the corpus is relatively small, the results indicate tendencies rather than universal conclusions.
 
 ## Findings Part 1: Authority Language
-_**Institutional Language Is Stronger in Rowling.**_ To measure institutional authority, I examined words such as professor, ministry, headmaster, detention, and rules across all six texts.
+_**Institutional Language Is Stronger in Rowling.**_ To measure institutional authority, I examined words such as *professor, ministry, headmaster, detention,* and *rules* across all six texts.
 
 As shown in the code below, I manually defined two keyword groups in R to represent institutional authority and self-directed agency. This allowed me to systematically compare how these two types of language appear across the six texts. The frequency counts generated from these keyword lists form the basis of the visualizations that follow.
 
@@ -68,7 +68,7 @@ The trend lines show that words like *professor* and *dumbledore* peak in the or
 Overall, authority vocabulary is the clearest lexical difference between the two corpora.
 
 ## Findings Part 2:  Agency Language
-**Agency Increase Is Modest and Uneven.** I expected to find a strong increase in self-directed words such as decide, plan, lead, and control in fanfiction.
+**Agency Increase Is Modest and Uneven.** I expected to find a strong increase in self-directed words such as *decide, plan, lead,* and *control* in fanfiction.
 
 <div style="text-align: center;">
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
@@ -88,14 +88,14 @@ To examine variation across texts:
   <em>Figure 4. Voyant Trends: Agency Terms</em>
 </div>
 
-The trend lines show uneven distribution. Some fanfiction texts show noticeable increases in words like plan or lead, while others remain close to Rowling’s baseline levels. This suggests that agency is not uniformly intensified in fanfiction. It appears concentrated in particular narratives rather than consistently elevated.
+The trend lines show uneven distribution. Some fanfiction texts show noticeable increases in words like *plan* or *lead,* while others remain close to Rowling’s baseline levels. This suggests that agency is not uniformly intensified in fanfiction. It appears concentrated in particular narratives rather than consistently elevated.
 
 The heatmap supports this interpretation, showing variation rather than a clear structural shift. The lexical increase in agency language is therefore weaker than expected.
 
 This complicates the assumption that fanfiction automatically produces greater character autonomy at the level of vocabulary.
 
 ## Qualitative Layer: “Must”
-To move beyond frequency counts, I examined the word must in context.
+To move beyond frequency counts, I examined the word _**must**_ in context.
 
 <div style="text-align: center;">
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/visual4.jpg" 
