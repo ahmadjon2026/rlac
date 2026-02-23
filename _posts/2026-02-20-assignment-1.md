@@ -26,6 +26,11 @@ The analysis included word frequency counts, trend graphs, contextual views, a h
 ## Findings Part 1: Authority Language
 _**Institutional Language Is Stronger in Rowling.**_ To measure institutional authority, I examined words such as professor, ministry, headmaster, detention, and rules across all six texts.
 
+```
+authority_words <- c("professor", "ministry", "headmaster", "rules", "detention")
+agency_words    <- c("plan", "planned", "decide", "decided", "lead", "leading", "choose", "chose")
+```
+
 <div style="text-align: center;">
   <img src="https://ahmadjon2026.github.io/rlac/assets/images/posit_agency_authority.jpg" 
        alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
