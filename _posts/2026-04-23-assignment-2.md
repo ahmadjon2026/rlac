@@ -100,3 +100,6 @@ Underwood also warns that distant reading can become too focused on technical de
 
 ## Conclusion
 This project showed that computational methods can reveal meaningful literary patterns, but they also show how unstable and layered literary style can be. Some authors stayed closely grouped across multiple methods, which suggests that stylistic fingerprints do exist. At the same time, other texts shifted positions depending on the model, reminding us that literary language is shaped by many factors beyond authorship alone. The comparison between Stylo clustering, PCA, and TF-IDF analysis demonstrated that each method captures a different part of textual similarity rather than producing one final or objective answer. More importantly, the project showed that distant reading works best when combined with interpretation instead of replacing it. The graphs helped us see patterns, but interpretation gave those patterns meaning. In the end, computational reading does not reduce literature into numbers. It challenges us to ask a bigger question: if different methods produce different literary maps, then what exactly counts as literary similarity in the first place?
+<br><br>
+
+**"READY FOR GRADING"**
