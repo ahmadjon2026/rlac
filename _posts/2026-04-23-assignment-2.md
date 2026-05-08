@@ -46,3 +46,18 @@ _**The Bootstrap Consensus Tree**_ tests whether the same stylistic relationship
 
 ## 4.1.1 Reflection
 Together, these two figures show that stylometry works best when an author maintains a relatively stable narrative style across texts. Dick and Norton fit this pattern clearly. However, the results also complicate the idea that every author has one fixed stylistic fingerprint. Writers like Kuttner and Brackett move across genres, tones, and narrative structures, which weakens stable clustering. The repeated isolation of *The Salvaging of Civilization* and *Jackie Sees a Star* becomes especially important because both texts differ from the corpus not simply in topic, but in form and voice. This suggests that style cannot always be separated cleanly from genre or content. In several cases, the computational method may be detecting broader literary differences rather than pure authorship alone.
+
+## 4.2 Stylistic Space and Outliers
+While the earlier cluster analyses focused on grouping texts into branches, the PCA visualization maps the corpus into a broader stylistic space. Instead of showing direct clusters, PCA reduces complex stylistic variation into two main dimensions, making it easier to identify which texts remain close together and which ones become isolated from the rest of the corpus.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/Fig_3_Stylo_Principal_Components_Analysis_100_Most_Frequent_Words.png" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 3. Stylo Principal Components Analysis at 100 Most Frequent Words</em>
+</div>
+<br>
+**The PCA visualization** reveals a corpus that is partly clustered and partly fragmented. Most of the science fiction texts remain compressed near the center, suggesting that many authors share a broader stylistic baseline connected to mid-century science fiction writing. However, several texts break sharply away from this central region. Wells’s *The Salvaging of Civilization* appears as the strongest outlier on the lower-left side of the graph, far from both his own fiction and the wider corpus. This reinforces the earlier finding that nonfiction prose creates a very different stylistic profile from narrative fiction. Marion Zimmer Bradley’s *Jackie Sees a Star* also becomes highly isolated, especially along the second principal component, separating it from Bradley’s other works and from the broader pulp science fiction cluster. At the same time, Dick’s texts remain relatively close together, further supporting the idea of a stable authorial signature across his stories.
+
+## 4.2.1 Reflection
+This figure shows that stylistic similarity in the corpus is shaped not only by authorship, but also by shared genre conventions. Many of the texts compress toward the middle because they rely on similar narrative structures, vocabulary, and rhythms common to science fiction of the period. The most revealing cases are therefore the outliers rather than the central cluster. *The Salvaging of Civilization* and *Jackie Sees a Star* repeatedly resist integration into the larger stylistic field, suggesting that shifts in genre, narrative voice, and intended audience can reshape computational distance more strongly than authorship itself. The PCA therefore complicates the idea that stylometry simply identifies authors. In several cases, it appears to map broader literary form and narrative function instead.
