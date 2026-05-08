@@ -22,3 +22,17 @@ TF-IDF was used to examine thematic and content-based similarity. Unlike Stylo, 
 
 ## 4. Analysis
 The computational analysis reveals both stable patterns and important contradictions across the corpus. Some authors remain highly recognizable across multiple methods and parameter settings, while other texts repeatedly resist classification or shift depending on the method being used. The **first part** of the analysis examines how Stylo identifies patterns of authorial stability through clustering and PCA visualizations. The **second part** focuses on stylistic outliers and the role of narrative form in shaping computational distance. The **third part** turns to TF-IDF in order to examine how thematic vocabulary reorganizes the corpus around shared science fiction concerns and genre language. **Finally,** the analysis compares where the two methods agree and where they begin to diverge, revealing that style, content, and genre are often more interconnected than the methods initially suggest.
+
+## 4.1 Stylo and Authorial Stability
+The first part of the analysis examines whether Stylo can consistently identify authors through patterns in the most frequent words. Since Stylo mainly relies on common grammatical words rather than thematic vocabulary, it is designed to detect writing habits rather than topic. The goal here is to see which authors maintain stable stylistic signatures across the corpus and which texts begin to break those patterns.
+
+<br>
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/Fig_1_Stylo_Cluster_Analysis_500_Most_Frequent_Words_Classic_Delta.png" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 1. Stylo Cluster Analysis at 500 Most Frequent Words (Classic Delta)</em>
+</div>
+<br>
+
+*Figure 1* shows that some authors cluster very consistently while others remain unstable. Philip K. Dick’s three texts form one of the strongest stylistic groups in the corpus, and Andre Norton’s works also stay tightly connected. This suggests that their writing habits remain recognizable across different stories. At the same time, Leigh Brackett and Henry Kuttner appear much more fragmented. The Blue Behemoth drifts closer to Kuttner’s texts than to Brackett’s own planetary romance stories, while Kuttner’s works scatter across different branches instead of forming one stable cluster. The strongest outlier is Wells’s The Salvaging of Civilization, which separates sharply from his fiction works because it is written as political and philosophical nonfiction rather than narrative science fiction. Marion Zimmer Bradley’s Jackie Sees a Star also stands unusually far from the rest of the corpus, suggesting that narrative voice and intended audience strongly affect stylistic distance.
