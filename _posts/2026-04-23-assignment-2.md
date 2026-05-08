@@ -34,3 +34,12 @@ The first part of the analysis examines whether Stylo can consistently identify 
 </div>
 <br>
 _**Figure 1**_ shows that some authors cluster very consistently while others remain unstable. Philip K. Dick’s three texts form one of the strongest stylistic groups in the corpus, and Andre Norton’s works also stay tightly connected. This suggests that their writing habits remain recognizable across different stories. At the same time, Leigh Brackett and Henry Kuttner appear much more fragmented. *The Blue Behemoth* drifts closer to Kuttner’s texts than to Brackett’s own planetary romance stories, while Kuttner’s works scatter across different branches instead of forming one stable cluster. The strongest outlier is Wells’s *The Salvaging of Civilization,* which separates sharply from his fiction works because it is written as political and philosophical nonfiction rather than narrative science fiction. Marion Zimmer Bradley’s *Jackie Sees a Star* also stands unusually far from the rest of the corpus, suggesting that narrative voice and intended audience strongly affect stylistic distance.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/Fig_2_Bootstrap_Consensus_Tree_Across_100to500_Most_Frequent Words_Classic_Delta.png" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 2. Bootstrap Consensus Tree Across 100–500 Most Frequent Words (Classic Delta)</em>
+</div>
+<br>
+The Bootstrap Consensus Tree tests whether the same stylistic relationships remain stable across different parameter settings. Dick and Norton continue to cluster together very consistently, making them the clearest examples of stable authorial style in the corpus. In contrast, Kuttner and Brackett remain unstable even when the model is rerun across multiple settings, which suggests that their stylistic variation is not accidental but structurally built into their writing. The consensus tree also confirms the repeated isolation of *The Salvaging of Civilization* and *Jackie Sees a Star.* Their distance from surrounding texts appears across multiple runs rather than in a single visualization. This makes the outliers analytically important because they show that stylometry is highly sensitive not only to authorial habits, but also to shifts in genre, narrative perspective, and literary form.
