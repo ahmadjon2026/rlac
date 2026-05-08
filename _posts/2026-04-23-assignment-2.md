@@ -61,3 +61,32 @@ While the earlier cluster analyses focused on grouping texts into branches, the 
 
 ## 4.2.1 Reflection
 This figure shows that stylistic similarity in the corpus is shaped not only by authorship, but also by shared genre conventions. Many of the texts compress toward the middle because they rely on similar narrative structures, vocabulary, and rhythms common to science fiction of the period. The most revealing cases are therefore the outliers rather than the central cluster. *The Salvaging of Civilization* and *Jackie Sees a Star* repeatedly resist integration into the larger stylistic field, suggesting that shifts in genre, narrative voice, and intended audience can reshape computational distance more strongly than authorship itself. The PCA therefore complicates the idea that stylometry simply identifies authors. In several cases, it appears to map broader literary form and narrative function instead.
+
+## 4.3 TF-IDF and Thematic Clustering
+Unlike Stylo, which focuses on writing habits and frequent grammatical words, TF-IDF highlights vocabulary that is distinctive to particular texts. This shifts the analysis away from authorship and toward thematic similarity. The PCA visualizations below therefore map the corpus according to what the texts are mainly about rather than how the authors write.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/Fig_4_TFtoIDF_Principal_Components_Analysis_100_Most_Frequent_Words.png" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 4. TF-IDF Principal Components Analysis at 100 Most Frequent Words</em>
+</div>
+<br>
+At 100 MFW, the corpus appears much more spread out than in the stylometric PCA. Wells’s fiction texts move strongly toward the right side of the graph, while Norton’s works cluster together in the lower-right region. Dick’s stories also remain relatively close to each other, suggesting a shared vocabulary connected to technology, war, and instability. The strongest outlier is again *Jackie Sees a Star,* which separates sharply from the rest of the corpus. Unlike the earlier stylistic analyses, TF-IDF makes this distance even more visible because the story’s vocabulary differs strongly from the dominant language of space warfare, alien worlds, and planetary adventure found across much of the corpus. The visualization therefore shows thematic separation more aggressively than Stylo.
+
+<div style="text-align: center;">
+  <img src="https://ahmadjon2026.github.io/rlac/assets/images/Fig_5_TFtoIDF_Principal_Components_Analysis_3000_Most_Frequent_Words.png" 
+       alt="Bar graph showing frequency of authority-related words in Rowling and fanfiction texts">
+  <br>
+  <em>Figure 5. TF-IDF Principal Components Analysis at 3000 Most Frequent Words</em>
+</div>
+<br>
+At 3000 MFW, the overall structure becomes more compressed as broader genre vocabulary begins to dominate the corpus. Many of the science fiction texts move closer toward the center because they increasingly share words connected to space, technology, planets, war, and exploration. However, several texts continue to resist this compression. *Jackie Sees a Star* remains isolated on the left side of the graph, while Wells’s texts stay separated toward the upper-right region. This persistence suggests that some thematic differences remain strong even after thousands of words are included in the model. The figure also reveals that TF-IDF becomes less focused on individual authors at higher word counts and more sensitive to shared genre language across the corpus.
+
+## 4.3.1 Reflection
+Together, these two figures show that TF-IDF organizes the corpus primarily around thematic vocabulary rather than authorial style. At lower word counts, texts remain more visibly separated because distinctive vocabulary dominates the analysis. At higher word counts, many of the texts begin collapsing toward a shared science fiction center shaped by recurring genre language. However, the persistence of outliers such as *Jackie Sees a Star* and Wells’s nonfiction writing suggests that some thematic differences remain too strong to disappear even within a highly compressed genre space. Compared to Stylo, TF-IDF appears much more sensitive to topic, narrative setting, and recurring genre vocabulary than to stable authorial
+
+## 4.4 Where the Methods Agree and Disagree
+The comparison between Stylo and TF-IDF reveals that the two methods often detect different kinds of similarity inside the same corpus. Stylo groups texts mainly through repeated grammatical habits and narrative rhythm, while TF-IDF groups them through distinctive vocabulary and thematic focus. In some cases, the methods strongly agree. Dick and Norton remain relatively stable across both analyses, suggesting that their works share both stylistic consistency and recurring thematic language. Wells’s *The Salvaging of Civilization* also remains isolated in nearly every visualization, showing that its nonfiction structure and political vocabulary separate it sharply from the surrounding science fiction corpus regardless of method.
+
+The most interesting cases, however, are the disagreements between the methods. Jackie Sees a Star appears distant in both analyses, but for different reasons. Stylo isolates it because its narrative voice and sentence structure differ from the rest of the corpus, while TF-IDF isolates it because its vocabulary diverges from dominant science fiction themes. Brackett and Kuttner create a similar tension. Their texts remain unstable in the stylometric models, yet some of them move closer together thematically under TF-IDF because they share overlapping genre concerns. These disagreements show that style, genre, and content cannot always be separated cleanly. The computational models become most useful not when they produce perfect agreement, but when they expose places where literary form becomes unstable and difficult to classify.
